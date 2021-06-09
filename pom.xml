@@ -10,7 +10,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <logback.version>1.0.11</logback.version>
+        <logback.version>1.2.0</logback.version>
         <commons-cli.version>1.2</commons-cli.version>
         <maven-assembly.version>2.4</maven-assembly.version>
         <maven-jar.version>2.3</maven-jar.version>
